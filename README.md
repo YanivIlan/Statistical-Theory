@@ -38,7 +38,7 @@ This project can be run in any **neutral Python environment**, such as:
 Clone the repository and install required packages:
 
 ```bash
-git clone https://github.com/Itamarzer/Statistical-Theory.git
+git clone https://github.com/YanivIlan/Statistical-Theory.git
 cd Statistical-Theory
 pip install -r requirements.txt
 
@@ -78,8 +78,8 @@ Or from within Jupyter/Colab:
 
 For questions, feedback, or collaboration inquiries, feel free to reach out:
 
--  Email: itamar.zernitsky@gmail.com  
--  GitHub: [@Itamarzer](https://github.com/Itamarzer)
+-  Email: yaniv2048@gmail.com  
+-  GitHub: [@YanivIlan](https://github.com/YanivIlan)
 
 ---
 note that there are some parts in the github codes and files that are not mentioned in the article itself like why is the logistic regression is the best model, we also run models like random forests, Xgboost and more. Second there are some EDA files that are not mentioned in the article itself but were presented in the class presentations in short.
