@@ -2,7 +2,7 @@
 
 **Final Project in Statistical Theory**  
 Authors: *Yaniv Ilan and Itamar Zernitsky*  
-GitHub: [https://github.com/YanivIlan/Statistical-Theory](https://github.com/YanivIlan/Statistical-Theory)
+GitHub: [https://github.com/YanivIlan/cardio-renal-causality-study](https://github.com/YanivIlan/cardio-renal-causality-study)
 
 ---
 
@@ -38,7 +38,7 @@ This project can be run in any **neutral Python environment**, such as:
 Clone the repository and install required packages:
 
 ```bash
-git clone https://github.com/YanivIlan/Statistical-Theory.git
+git clone https://github.com/YanivIlan/cardio-renal-causality-study.git
 cd Statistical-Theory
 pip install -r requirements.txt
 
